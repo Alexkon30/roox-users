@@ -1,0 +1,28 @@
+.input:not(:last-child) {
+  margin-bottom: 10px;
+}
+.input__title {
+  font-size: 8px;
+  line-height: 9px;
+  margin-bottom: 3px;
+}
+.input > input, .input > textarea {
+  font-size: 10px;
+  line-height: 12px;
+  outline: none;
+  border: 1px solid #D8D8D8;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.input > input {
+  width: 50%;
+}
+.input > input.input-wrong {
+  border: 1px solid #D91313;
+}
+.input > textarea {
+  width: 100%;
+  resize: none;
+}
+
+/*# sourceMappingURL=Input.css.map */

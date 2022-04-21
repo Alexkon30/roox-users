@@ -1,0 +1,17 @@
+.btn {
+  width: fit-content;
+  padding: 5px 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  color: #FFF;
+  cursor: pointer;
+  transition: .2s;
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.25);
+}
+.btn-disabled {
+  cursor: default;
+  transition: none;
+  box-shadow: none;
+}
+
+/*# sourceMappingURL=Button.css.map */

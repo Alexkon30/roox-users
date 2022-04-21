@@ -1,0 +1,19 @@
+.users {
+    &__list {
+        padding: 19px 62px 0 34px;
+        width: 100%;
+    }
+
+    &__header {
+        margin-bottom: 17px;
+    }
+
+    &__body {
+        margin-bottom: 10px;
+    }
+
+    &__footer {
+        text-align: end;
+        margin-bottom: 25px;
+    }
+}

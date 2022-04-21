@@ -1,0 +1,23 @@
+.user-info {
+    padding: 13px 45px 0 36px;
+    width: 100%;
+
+    &__header {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__body {
+        border: 1px solid #F3F3F3;
+        border-radius: 8px;
+        padding: 20px 6px 20px 12px;
+        margin-bottom: 10px;
+    }
+
+    &__footer {
+        display: flex;
+        justify-content: flex-end;
+    }
+}

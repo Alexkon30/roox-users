@@ -1,0 +1,24 @@
+.user-card {
+  background: #F3F3F3;
+  border-radius: 8px;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+.user-card:not(:last-child) {
+  margin-bottom: 14px;
+}
+.user-card .label {
+  color: #A3A3A3;
+  margin-right: 7px;
+}
+.user-card__btn {
+  align-self: flex-end;
+  color: #4B51EF;
+}
+.user-card__btn:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=UserCard.css.map */

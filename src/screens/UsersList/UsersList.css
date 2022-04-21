@@ -1,0 +1,16 @@
+.users__list {
+  padding: 19px 62px 0 34px;
+  width: 100%;
+}
+.users__header {
+  margin-bottom: 17px;
+}
+.users__body {
+  margin-bottom: 10px;
+}
+.users__footer {
+  text-align: end;
+  margin-bottom: 25px;
+}
+
+/*# sourceMappingURL=UsersList.css.map */
